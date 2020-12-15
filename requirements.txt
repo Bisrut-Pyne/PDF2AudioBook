@@ -1,0 +1,4 @@
+PyPDF2==1.26.0
+gtts==2.2.1
+playsound==1.2.2
+colorama==0.4.4
